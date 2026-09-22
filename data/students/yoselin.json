@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "name": "Yoselin Cardona",
+    "lat": 3.4023462,
+    "lng": 76.5290229,
+    "photo": "https://randomuser.me/api/portraits/women/44.jpg",
+    "likes": ["Bailar", "Senderismo", "Energía Renovable"],
+    "dislikes": ["Velocidad", "Estado de Israel"],
+    "socialMedia": "@YossC"
+}
